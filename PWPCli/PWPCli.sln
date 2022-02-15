@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWPCli", "PWPCli.csproj", "{DA313297-6C79-4F68-AA2C-42B78E8ED37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA313297-6C79-4F68-AA2C-42B78E8ED37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA313297-6C79-4F68-AA2C-42B78E8ED37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA313297-6C79-4F68-AA2C-42B78E8ED37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA313297-6C79-4F68-AA2C-42B78E8ED37D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA5F364-7C7A-4E9F-948E-BAFF62D46D8B}
+	EndGlobalSection
+EndGlobal
