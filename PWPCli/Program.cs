@@ -14,4 +14,4 @@ builder.Services.AddMudServices();
 builder.Services.AddScoped<IScrollInfoService, ScrollInfoService>();
 
 
-await builder.Build().RunAsync();
+await builder.Build().RunAsync(); 
