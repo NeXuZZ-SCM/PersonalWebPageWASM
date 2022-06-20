@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ow/jhfmY9EID1coT51Eqzf8sLXAT8mE2ILBTSd91svE=",
+  "Hash": "Rz0Ux8RunLxPu+VwCFYXXBCD0pOQelsGQC2jWJMXwnU=",
   "Source": "PWPCli",
   "BasePath": "/",
   "Mode": "Root",
@@ -7106,6 +7106,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\faviconee.ico",
+      "SourceId": "PWPCli",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "faviconee.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\faviconee.ico"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\icon-512.png",
       "SourceId": "PWPCli",
       "SourceType": "Discovered",
@@ -7138,6 +7155,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\AdminDashboardTemplate.png"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\images\\aspnet.png",
+      "SourceId": "PWPCli",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/aspnet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aspnet.png"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\images\\avatar.jpg",
@@ -7325,6 +7359,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\netframe.png"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\images\\reactJs.png",
+      "SourceId": "PWPCli",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/reactJs.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\reactJs.png"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\wwwroot\\images\\sqlserver.jpg",
