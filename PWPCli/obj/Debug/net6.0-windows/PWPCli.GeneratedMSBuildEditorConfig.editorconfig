@@ -70,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQXV0aGVudGljYXRpb25cUmVzZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Carrousel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQ2Fycm91c2VsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/RadarChart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcUmFkYXJDaGFydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,27 @@
+﻿
+
+
+<div style="display:flex;">
+<MudCarousel Class="mud-width-full" Style="height:200px;" ShowArrows="true" ShowBullets="true" AutoCycle="true" TData="object">
+    <MudCarouselItem Transition="transition" Color="@Color.Primary">
+        <div class="d-flex justify-center" style="height:100%">
+            <MudImage Src="images/AdminDashboardTemplate.png" Width="332" Height="250" Alt="Swedish Farm House" Elevation="25" Class="rounded-lg ma-4"/>
+        </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition" Color="@Color.Secondary">
+        <div class="d-flex" style="height:100%">
+            <MudIcon Class="mx-auto my-auto" Icon="@Icons.Custom.Brands.MudBlazor" Size="@Size.Large" />
+        </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition">
+        <div class="d-flex" style="height:100%">
+            <MudIcon Class="mx-auto my-auto" Icon="@Icons.Custom.Brands.MudBlazor" Color="@Color.Primary" Size="@Size.Large" />
+        </div>
+    </MudCarouselItem>
+</MudCarousel>
+</div>
+
+
+@code{ 
+    private Transition transition = Transition.Slide;
+}

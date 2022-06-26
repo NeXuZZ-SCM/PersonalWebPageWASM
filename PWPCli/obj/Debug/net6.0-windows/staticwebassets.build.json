@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Rz0Ux8RunLxPu+VwCFYXXBCD0pOQelsGQC2jWJMXwnU=",
+  "Hash": "7QAGI+xyLh5Ua3jFX+Pp6Jy3SCBXUlt+OX2HxHISUe0=",
   "Source": "PWPCli",
   "BasePath": "/",
   "Mode": "Root",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\MudBlazor.min.css",
+      "Identity": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\MudBlazor.min.js",
+      "Identity": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js",
       "AssetKind": "All",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\blazor.boot.json",
@@ -133,7 +133,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.0\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.6\\build\\net6.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\BlazorTypewriter.dll",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -354,7 +354,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -371,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.0\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -592,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -660,7 +660,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.jsinterop\\6.0.0\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.jsinterop\\6.0.6\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -677,7 +677,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.0\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.6\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -779,7 +779,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.2\\lib\\net6.0\\MudBlazor.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\mudblazor\\6.0.10\\lib\\net6.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\netstandard.dll",
@@ -1697,7 +1697,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\system.io.pipelines\\6.0.0\\lib\\net6.0\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\system.io.pipelines\\6.0.3\\lib\\net6.0\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
@@ -3638,6 +3638,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\mscorlib.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\0eblbxd7.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\0RPMJL+S.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -3706,23 +3723,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\1k9NtlZy.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\1raPEurv.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -3789,23 +3789,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll"
-    },
-    {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\3p3OTGjm.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\3s+4XZmX.gz",
@@ -4165,23 +4148,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\dotnet.timezones.blat"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\a3ZGgvZj.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\AFNOIbTn.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -4265,23 +4231,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll"
-    },
-    {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\bbbrW39x.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\cEfcSFA8.gz",
@@ -4556,6 +4505,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Net.Http.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\ExoX+aeh.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\eYO33LJD.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -4641,21 +4607,21 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.ComponentModel.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\FNhlgi8+.gz",
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\fO81dvAX.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\fphiAvs4.gz",
@@ -4692,23 +4658,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\GBIlvQRe.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/MudBlazor.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\MudBlazor.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\MudBlazor.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\gJMlU3t0.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -4724,6 +4673,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.IsolatedStorage.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Gkz3BpwA.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\h1DqiPfg.gz",
@@ -4930,21 +4896,21 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Formats.Asn1.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\IMwZkCgg.gz",
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\IkCeeeiO.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\ipRkml2E.gz",
@@ -5270,6 +5236,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\KhO5F+0S.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.Pipelines.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Kmm4637p.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -5455,23 +5438,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll"
-    },
-    {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\M4lncHVX.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.Pipelines.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\mdVOEueL.gz",
@@ -5916,23 +5882,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Text.Json.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\QJPMaIJH.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Qsx24QHp.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6001,6 +5950,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Threading.Timer.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\RjQsNbbu.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\rNeUvpSh.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6033,6 +5999,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Transactions.Local.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\s094OwzN.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\S81+sfsd.gz",
@@ -6239,23 +6222,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Data.Common.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\THZ9aN90.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\tl3TXCk4.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6373,6 +6339,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Uen7kQVB.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\UJ0ocChH.gz",
@@ -6681,6 +6664,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Console.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\x9egKcqw.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\MudBlazor.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\xghr5i2C.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6732,23 +6732,6 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.ComponentModel.Annotations.dll"
     },
     {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Y+H+Vn1+.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Y9pEtojk.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6764,6 +6747,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Net.WebSockets.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\yAlhWPsZ.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\YaxAZJFJ.gz",
@@ -6832,6 +6832,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Net.NameResolution.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\yswiyRAm.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\YzUNPmi7.gz",
@@ -6968,23 +6985,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll"
-    },
-    {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\Zm+cGw4e.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\zs7lArHT.gz",
