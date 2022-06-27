@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7QAGI+xyLh5Ua3jFX+Pp6Jy3SCBXUlt+OX2HxHISUe0=",
+  "Hash": "A6FoGwnERo2HRvPc7nxLelu7TJlDF7u4FHKImS8gRz8=",
   "Source": "PWPCli",
   "BasePath": "/",
   "Mode": "Root",
@@ -813,7 +813,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
+      "OriginalItemSpec": "C:\\Users\\nexuz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\PWPCli.dll",
@@ -4233,6 +4233,23 @@
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll"
     },
     {
+      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\bucR47UY.gz",
+      "SourceId": "PWPCli",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\cEfcSFA8.gz",
       "SourceId": "PWPCli",
       "SourceType": "Computed",
@@ -6288,23 +6305,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\System.Net.ServicePoint.dll"
-    },
-    {
-      "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\tVUdUzoq.gz",
-      "SourceId": "PWPCli",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Newtonsoft.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\bin\\Debug\\net6.0-windows\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\obj\\Debug\\net6.0-windows\\build-gz\\ucZ6BAz+.gz",
