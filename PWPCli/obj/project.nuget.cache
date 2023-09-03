@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zXMDolScVmrdHVE7jafZ/qcWghjQvzNstCxm6CkX4pRifcU50vkHfHuyhz9oef/6X4a3uAOpkkIuACTPBsylZg==",
+  "dgSpecHash": "DKUWv+UyRNe5ps2IpRwT0TeDqcpGGPxqKaY/Dfu2rvByv+i9/Tsbz5aqMVP0u6gTZd/dRAuzPWE/H3UsNDlnMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWPCli\\PWPCli.csproj",
+  "projectFilePath": "C:\\Dev\\PersonalWebPageWASM\\PWPCli\\PWPCli.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nexuz\\.nuget\\packages\\blazortypewriter\\1.1.0\\blazortypewriter.1.1.0.nupkg.sha512",
     "C:\\Users\\nexuz\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\chartjs.blazor.fork.2.0.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWFhhKANowNcm38ZzcbIqOVhIWE6zjd2n8zUwo2m6YbURiPIR7je7SKOGVsEKqjNPTEbQcCKnguSnMgkT1WX1Q==",
+  "dgSpecHash": "QeGy4HJxyg4k0X5R++NP5PWkgJYepGsl6xK1nj1ViSCpgi5VtpVVW4qEqLR4E6yGyE3Bsvta/MN+A8tDC2I5yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nexuz\\source\\repos\\PersonalWebPageWASM\\PWP.API\\PWP.API.csproj",
+  "projectFilePath": "C:\\Dev\\PersonalWebPageWASM\\PWP.API\\PWP.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
