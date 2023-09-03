@@ -1,0 +1,19 @@
+﻿@page "/Blog"
+
+
+<h3>Blog</h3>
+<h1>AHHH</h1>
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="incrementCount">Click me</button>
+
+
+<div>
+    @foreach (var post in posts)
+    {
+        <h3>@post.Title</h3>
+        <p>@post.Content</p>
+    }
+</div>
+
+

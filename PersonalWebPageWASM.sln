@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWPCli", "PWPCli\PWPCli.csproj", "{EB9E040A-A922-4D97-A0D7-0A608C153DFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWP.API", "PWP.API\PWP.API.csproj", "{6869F364-817A-4698-8296-2687892999D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWP.API", "PWP.API\PWP.API.csproj", "{6869F364-817A-4698-8296-2687892999D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

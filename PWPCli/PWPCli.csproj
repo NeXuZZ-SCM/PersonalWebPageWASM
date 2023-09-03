@@ -5,7 +5,7 @@
 		<NoWin32Manifest>true</NoWin32Manifest>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
-	</PropertyGroup>
+  </PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="BlazorTypewriter" Version="1.1.0" />
@@ -18,9 +18,9 @@
 
 	<ItemGroup>
 	  <Folder Include="wwwroot\Data\" />
-	</ItemGroup>
+  </ItemGroup>
 
 	<ProjectExtensions><VisualStudio><UserProperties wwwroot_4manifest_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
-	
-	
+
+
 </Project>

@@ -5,143 +5,145 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = true
-build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = PWPCli
 build_property.RootNamespace = PWPCli
-build_property.ProjectDir = C:\Users\nexuz\source\repos\PersonalWebPageWASM\PWPCli\
+build_property.ProjectDir = C:\Dev\PersonalWebPageWASM\PWPCli\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nexuz\source\repos\PersonalWebPageWASM\PWPCli
+build_property.MSBuildProjectDirectory = C:\Dev\PersonalWebPageWASM\PWPCli
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/App.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/Chat.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/Chat.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXENoYXRcQ2hhdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/ChatChannels.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/ChatChannels.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXENoYXRcQ2hhdENoYW5uZWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/ChatUsers.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/ChatUsers.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXENoYXRcQ2hhdFVzZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/User.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/User.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXENoYXRcVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/UserMessage.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Chat/UserMessage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXENoYXRcVXNlck1lc3NhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/Email.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/Email.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXEVtYWlsXEVtYWlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/EmailNavList.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/EmailNavList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXEVtYWlsXEVtYWlsTmF2TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/Inbox.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Applications/Email/Inbox.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25zXEVtYWlsXEluYm94LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Forgot.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Forgot.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQXV0aGVudGljYXRpb25cRm9yZ290LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Login.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQXV0aGVudGljYXRpb25cTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Register.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Reset.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Authentication/Reset.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQXV0aGVudGljYXRpb25cUmVzZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Carrousel.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Blog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQmxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Carrousel.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcQ2Fycm91c2VsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/MailSender.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/MailSender.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcTWFpbFNlbmRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/RadarChart.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/RadarChart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcUmFkYXJDaGFydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/TimeLine.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/TimeLine.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcVGltZUxpbmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Utility/Faq.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Utility/Faq.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcVXRpbGl0eVxGYXEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Utility/WasmLoading.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Utility/WasmLoading.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcVXRpbGl0eVxXYXNtTG9hZGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Personal/Account.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Personal/Account.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYWxcQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/AnchorLink.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/AnchorLink.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFuY2hvckxpbmsucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/LoginLayout.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/LoginLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/Main.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/NavMenu.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/PersonCard.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/PersonCard.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBlcnNvbkNhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/_Imports.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Footer.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcRm9vdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-wk3udroadi
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Portada.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Portada.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcUG9ydGFkYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-vlzdo3868b
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Pages/Servicios.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Pages/Servicios.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcU2VydmljaW9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-yc2x97riqd
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Pages/Personal/Dashboard.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Pages/Personal/Dashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYWxcRGFzaGJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-lyhwmw91yn
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/MainLayout.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-qw3meo432i
 
-[C:/Users/nexuz/source/repos/PersonalWebPageWASM/PWPCli/Shared/ParallaxCreate.razor]
+[C:/Dev/PersonalWebPageWASM/PWPCli/Shared/ParallaxCreate.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcmFsbGF4Q3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-l4yal4xc8a
