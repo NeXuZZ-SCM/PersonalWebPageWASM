@@ -31,31 +31,31 @@
             Post post122 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA2 ",
                 Content = "This is my first poop"
             };
             Post post222 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA3",
                 Content = "This is my first poop"
             };
             Post post23 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA4",
                 Content = "This is my first poop"
             };
             Post post34 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA5",
                 Content = "This is my first poop"
             };
             Post post55 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA6",
                 Content = "This is my first poop"
 
 
@@ -63,7 +63,7 @@
             Post post66 = new Post
             {
                 Id = 1,
-                Title = "PERO QUE BLOG DE MIELDA ",
+                Title = "PERO QUE BLOG DE MIELDA7",
                 Content = "This is my first poop"
             };
 
