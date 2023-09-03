@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "isEgRJHlojlj0KbY6ejkIi8FCTKuy/5JMAu/RR6sgy9+aEoJFMD65zhBbybGkw40g05hjUvcyFrvimv2LoiDZA==",
+  "dgSpecHash": "95ankLjVjVPtsMbRhsgxDD3F6WIZUwZexk4E+ZHME7I2doz4bkAJY23aSdB0vgeDL6YUxMd5SjAt0y7o46rSrw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\PersonalWebPageWASM\\PWPCli\\PWPCli.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,7 @@
     "C:\\Users\\nexuz\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\nexuz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\nexuz\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.7.nupkg.sha512"
+    "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.10.nupkg.sha512"
   ],
   "logs": []
 }
