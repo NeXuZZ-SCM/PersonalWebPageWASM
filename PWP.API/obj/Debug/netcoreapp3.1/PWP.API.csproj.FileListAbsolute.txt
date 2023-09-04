@@ -25,7 +25,6 @@ C:\Dev\PersonalWebPageWASM\PWP.API\bin\Debug\netcoreapp3.1\PWP.API.runtimeconfig
 C:\Dev\PersonalWebPageWASM\PWP.API\bin\Debug\netcoreapp3.1\PWP.API.runtimeconfig.dev.json
 C:\Dev\PersonalWebPageWASM\PWP.API\bin\Debug\netcoreapp3.1\PWP.API.dll
 C:\Dev\PersonalWebPageWASM\PWP.API\bin\Debug\netcoreapp3.1\PWP.API.pdb
-C:\Dev\PersonalWebPageWASM\PWP.API\obj\Debug\netcoreapp3.1\PWP.API.csproj.AssemblyReference.cache
 C:\Dev\PersonalWebPageWASM\PWP.API\obj\Debug\netcoreapp3.1\PWP.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Dev\PersonalWebPageWASM\PWP.API\obj\Debug\netcoreapp3.1\PWP.API.AssemblyInfoInputs.cache
 C:\Dev\PersonalWebPageWASM\PWP.API\obj\Debug\netcoreapp3.1\PWP.API.AssemblyInfo.cs
