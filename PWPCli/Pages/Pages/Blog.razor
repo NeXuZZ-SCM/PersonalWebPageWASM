@@ -12,20 +12,20 @@
     @foreach (var post in posts)
     {
         @*<h3>@post.Title</h3>
-        <p>@post.Content</p> *@
-            <MudCard Style="width:400px;">
-                <MudCardMedia Image="images/blogTest/net.png" Height="200"/>
-                <MudCardContent>
-                    <MudText Typo="Typo.h5">@post.Title</MudText>
-                    <MudText Typo="Typo.body2">Old paint found on a stone house door.</MudText>
-                    <MudText Typo="Typo.body2">This photo was taken in a small village in Istra Croatia.</MudText>
-                </MudCardContent>
-                <MudCardActions>
-                    <MudButton Variant="Variant.Text" Color="Color.Primary">Share</MudButton>
-                    <MudButton Variant="Variant.Text" Color="Color.Primary">Ingresar</MudButton>
-                </MudCardActions>
-            </MudCard>
+    <p>@post.Content</p> *@
+        <MudCard Style="width:400px;">
+            <MudCardMedia Image="images/blogTest/net.png" Height="200" />
+            <MudCardContent>
+                <MudText Typo="Typo.h5">@post.Title</MudText>
+                <MudText Typo="Typo.body2">@DateTime.Now.ToString("dd/MM/yyyy")</MudText>
+                <MudText Typo="Typo.body2" Style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"><strong>@post.Content</strong></MudText>
+                <MudText Typo="Typo.caption">Lic. Sguazzin Cristian M.</MudText>
+                 
+            </MudCardContent>
+            <MudCardActions>
+                <MudButton Variant="Variant.Text" Color="Color.Primary">Share</MudButton>
+                <MudButton Variant="Variant.Text" Color="Color.Primary">Ingresar</MudButton>
+            </MudCardActions>
+        </MudCard>
     }
 </div>
-
-
