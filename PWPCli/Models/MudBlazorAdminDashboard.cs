@@ -6,7 +6,7 @@ namespace PWPCli.Shared
     {
         public MudBlazorAdminDashboard()
         {
-            Palette = new Palette()
+            Palette = new PaletteLight()
             {
                 Primary = Colors.Blue.Darken1,
                 Secondary = Colors.DeepPurple.Accent2,

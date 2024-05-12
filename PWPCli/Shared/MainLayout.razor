@@ -12,7 +12,7 @@
 <MudLayout>
 
     @*Inicio APP BAR*@
-    <MudAppBar Elevation="0" Style="@($"background-color:{ColorAppBar};position:fixed;")">
+    <MudAppBar Elevation="0" Style="@($"background-color: {ColorAppBar};position:fixed;")">
         @* Color="@ColorAppBar" *@
         <MudHidden Breakpoint="Breakpoint.MdAndUp">
             <MudIconButton Icon="@Icons.Material.Outlined.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
@@ -25,11 +25,11 @@
         </MudHidden>
         <MudSpacer />
         <MudHidden Breakpoint="Breakpoint.MdAndUp" Invert="true">
-                <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#TimeLine" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Home" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Inicio</MudText></AnchorLink></MudButton>
-                <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Skill" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Memory" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Skill</MudText></AnchorLink></MudButton>@*StartIcon="@Icons.Material.Filled.Memory" *@
-                <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="/Data/CV.pdf" download="CristianSguazzinCV.pdf" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Custom.FileFormats.FilePdf" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">CV</MudText></AnchorLink></MudButton>@*StartIcon="@Icons.Material.Filled.Memory" *@
-                <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Services" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Code" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Servicios</MudText></AnchorLink></MudButton>
-                <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Services" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px;  transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Call" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Contacto</MudText></AnchorLink></MudButton>@*ContenidoContacto*@
+            <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#TimeLine" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Home" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Inicio</MudText></AnchorLink></MudButton>
+            <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Skill" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Memory" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Skill</MudText></AnchorLink></MudButton>@*StartIcon="@Icons.Material.Filled.Memory" *@
+            <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="/Data/CV.pdf" download="CristianSguazzinCV.pdf" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Custom.FileFormats.FilePdf" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">CV</MudText></AnchorLink></MudButton>@*StartIcon="@Icons.Material.Filled.Memory" *@
+            <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Services" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px; transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Code" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Servicios</MudText></AnchorLink></MudButton>
+            <MudButton Style="@($"color:{Colors.Shades.White};padding:0px;")"><AnchorLink onmouseover='this.style.backgroundColor="#ffffff1c"' onmouseout='this.style.backgroundColor="transparent"' class="links" href="#Services" style="display:inline-flex; color:white; padding: 10px 10px 10px 10px;  transition: 1s;"><MudIcon Icon="@Icons.Material.Filled.Call" Style="margin-right:10px;"></MudIcon><MudText Style="@($"color:{Colors.Shades.White};")">Contacto</MudText></AnchorLink></MudButton>@*ContenidoContacto*@
         </MudHidden>
         <MudSpacer />
 
@@ -72,7 +72,7 @@
 
         if (Ligth)
         {
-            _theme.Palette = new Palette()
+            _theme.Palette = new PaletteDark()
                 {
 
                     Primary = Colors.Shades.Black, //Colors.Red.Darken1,
@@ -90,7 +90,7 @@
         }
         else
         {
-            _theme.Palette = new Palette()
+            _theme.Palette = new PaletteLight()
                 {
                     Primary = Colors.Blue.Darken1,
                     Secondary = Colors.DeepPurple.Accent2,
@@ -114,9 +114,9 @@
 
     string ColorAppBar = Colors.Shades.Transparent; //Color usado para dark theme
 
-    private void OnScroll(object sender, int yValue) // funcion dark theme
+    private void OnScroll(object sender, int? yValue) // funcion dark theme
     {
-        if (yValue != 0)
+        if (yValue.HasValue && yValue is not 0)
         {
             ColorAppBar = Colors.Shades.Black;
             StateHasChanged();
@@ -138,8 +138,6 @@
     new BreadcrumbItem("Personal", href: "#"),
     new BreadcrumbItem("Dashboard", href: "#"),
     };
-
-
-    }
+}
 
 

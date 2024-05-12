@@ -1,0 +1,11 @@
+﻿@page "/Post/{id}"
+@inject NavigationManager NavigationManager
+
+<h3>Post</h3>
+<h1>@id</h1>
+
+
+@code {
+    [Parameter]
+    public string id { get; set; }
+}

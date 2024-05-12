@@ -55,7 +55,7 @@ namespace PWP.API.Controllers
             // The userState can be any object that allows your callback
             // method to identify this send operation.
             // For this example, the userToken is a string constant.
-            string userState = "test message1";
+            //string userState = "test message1";
             //client.SendAsync(message, userState);
 
 
@@ -176,7 +176,7 @@ namespace PWP.API.Controllers
             // The userState can be any object that allows your callback
             // method to identify this send operation.
             // For this example, the userToken is a string constant.
-            string userState = "test message1";
+            //string userState = "test message1";
             //client.SendAsync(message, userState);
 
 
