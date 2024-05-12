@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ab8f2a4ddc8ed09b1369f4826ebf72e2544790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9e4cb5e157687b01583c683c263923c342b682")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
