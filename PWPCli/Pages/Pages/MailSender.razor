@@ -32,7 +32,7 @@
             </MudForm>   
         </MudPaper>
         <MudPaper Class="pa-4 mt-5">
-            <MudButton Variant="Variant.Filled" Color="Color.Secondary" DisableElevation="true" OnClick="@(()=>form.Reset())" Class="mx-2">Limpiar</MudButton>
+            <MudButton Variant="Variant.Filled" Color="Color.Secondary" DisableElevation="true" OnClick="@(()=>form.ResetAsync())" Class="mx-2">Limpiar</MudButton>
         </MudPaper>
     </MudItem>
     <MudItem xs="11" sm="4">
@@ -115,7 +115,7 @@
         {
             string respuesta = await response.Content.ReadAsStringAsync();
         }
-        form.Reset();
+        await form.ResetAsync();
         Snackbar.Configuration.PositionClass = Defaults.Classes.Position.BottomCenter;
         Snackbar.Add("El correo fue enviado", Severity.Success);
         return null;
